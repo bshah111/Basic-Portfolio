@@ -59,7 +59,7 @@ a:link{
 
 a:hover {
     color:navy;
-    background:#ccc;
+    background:#83adb5;
     padding: 15px;
 }
 
@@ -177,8 +177,14 @@ input[type=email]{
 
 }
 
-.label{
-    color: 83adb5;
+.Label{
+    color: #83adb5;
+}
+
+#contact-submit{
+    background-color: #83adb5;
+    color: #5e3c58;
+    font-weight: 700;
 }
 
 
